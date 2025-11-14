@@ -1,6 +1,12 @@
 胖东来
 于东来
 
+CPU价格
+GPU价格
+
+当前AI
+github最新开源
+
 DeepSeek
 梁文锋
 
